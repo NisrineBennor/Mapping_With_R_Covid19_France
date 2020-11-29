@@ -4,3 +4,5 @@ Le projet suivant comprend une carte statique et une autre réactive qui permett
 
 
 Pour importater le fichier shapefile on utilise le site suivant:  **http://www.div-gis.org/gdata**  qui contient les coordonnées géographiques des départements français.
+
+Il s'agit d'un projet personnel. 
